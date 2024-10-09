@@ -1,0 +1,13 @@
+﻿Civilian
+East
+Guards
+InvincibleGuards
+InvincibleObservers
+InvincibleYeetBrigade
+Mercenaries
+Observers
+Passive
+Raiders
+Shamans
+West
+YeetBrigade
